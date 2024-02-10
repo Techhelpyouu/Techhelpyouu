@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jaidah! <br/><a href="https://github.com/techhelpyouu"></a>, <a href="https://www.linkedin.com/in/jade-marie7/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/techhelpyouu">YouTuber</a></h1>
 
-<h2>👨‍💻 CybersecurityProjects:</h2>
+<h2>👩🏾‍💻 CybersecurityProjects:</h2>
 
 -   [Active Directory Home Lab](https://raw.githubusercontent.com/Techhelpyouu/Techhelpyouu/main/README.md)</b>
   - [System Administration](https://github.com/joshmadakor1/Algorithms-Practice)
